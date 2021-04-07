@@ -28,3 +28,5 @@
    $ export GOPATH=~/workspaces/go
    ```
 
+## IDE
+
