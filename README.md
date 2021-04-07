@@ -1,2 +1,2 @@
 # Gooooooooooo
-Go 옹부 시작
+## Go 옹부 시작
