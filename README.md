@@ -1,7 +1,7 @@
 # Go 옹부 시작
 ## 초기 환경 설정
 
-1. Go [설치]([Downloads - The Go Programming Language (golang.org)](https://golang.org/dl/))
+1. Go [설치](https://golang.org/dl/)
 
 2. Go Workspace 설정
 
