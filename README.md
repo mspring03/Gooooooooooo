@@ -28,5 +28,30 @@
    $ export GOPATH=~/workspaces/go
    ```
 
-## IDE
+---
+## **IDE**
+`Goland` : JetBrains가 만든 Go 개발용 IDE  
+<br>
 
+### **간단 명령어**
+`⌘,` : 설정(Preferences) 창을 엽니다.
+
+`⌘E` : 최근 사용한 파일 목록을 조회합니다.(Recent files popup)
+
+`Double⇧` : 가장 자주 사용되는 단축키 입니다. 파일, 클래스, 설정 등 키워드에 관련된 가능한 모든 것을 검색해 보여줍니다.( Search everywhere )
+
+`⌥Space` : 구현된 코드를 조회합니다. (Quick Definition)  
+`⌘B` : 해당 코드의 선언부로 이동.  
+`⌘⌥B` : 해당 코드의 구현부로 이동.  
+`⌥F7` : 해당 항목이 사용된 위치 검색   
+
+`⌘D` : 라인 복제 (Duplicate current line)  
+`⌘⌫` : 라인 삭제 (Delete line at caret)  
+`⌥↑,⌥↓` : 커서 근처의 코드 선택 영역을 확대하거나 축소합니다.  
+`⌥←,⌥→` : 단어별 포커스 이동  
+`⌥⇧←,⌥⇧→` : 단어별 선택  
+`fn↑,fn↓` : Page Up/Down  
+`fn←,fn→` : 라인 시작,끝으로 이동  
+`fn⇧←,fn⇧→` : 라인 전체 선택  
+ 
+---
