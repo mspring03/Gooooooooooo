@@ -39,3 +39,14 @@ var a uint64
 - **바이트**(byte) 또는 **룬**(rune) 타입으로 **문자의 코드값**을 저장하여 문자를 표기한다.
     - **byte**는 **uint8**의 별칭으로 **1 바이트**를 표현할 수 있는 **아스키**(ASCII) 문자를 표기할 수 있다.
     - **rune**은 **int32**의 별칭으로 **유니코드**(UTF-8) 문자를 표기할 수 있다.
+
+``` go
+var val1 rune = '명'
+var val2 = '철'
+var val3 rune = '\uAAAA'
+val4 := '\uBBBB'
+
+fmt.Println(val1, " ", val2) // 47749 52384
+fmt.Println(val3, " ", val4) // 47749 52384
+fmt.Printf("%c%c", val3, val4) // 명철
+```
