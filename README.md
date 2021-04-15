@@ -55,3 +55,30 @@
 `fn⇧←,fn⇧→` : 라인 전체 선택  
  
 ---
+## **공식문서**
+* [Golang](https://golang.org/doc/)
+* [Gorm](https://gorm.io/ko_KR/)
+
+## **내가 보고 공부한 블로그 & 흥미로운 글**
+### **GO**
+* [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
+
+### **데이터 타입**
+* [예제로 배우는 Go 프로그래밍](http://golang.site/Go/Basics)  
+   **slice**
+   * [Slice의 함정](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
+   * [Slice는 포인터인가 포인터가 아닌가](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
+
+### **Auth**
+* [Go 언어로 jwt인증 서버 만들기](https://covenant.tistory.com/203)
+
+### **docker** 
+* [Go 프로젝트 docker 이미지 99.2% 줄이기](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
+
+### **Architecture**
+* [Trying Clean Architecture on Golang](https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047)
+* [주니어 개발자의 클린 아키텍처 맛보기](https://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+
+### **Tool**
+* [호출 그래프에서 시작하는 Go 코드 읽기](https://docs.google.com/document/d/1TZ-SWt9StV_WPvBnBkbORci0fKSsc2TtUlsnPVVIlMU/mobilebasic)
+
