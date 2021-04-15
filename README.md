@@ -93,4 +93,5 @@
 
 ### **Tool**
 * [호출 그래프에서 시작하는 Go 코드 읽기](https://docs.google.com/document/d/1TZ-SWt9StV_WPvBnBkbORci0fKSsc2TtUlsnPVVIlMU/mobilebasic)
+* [Golang 인증 middleware 구현하기](https://bourbonkk.tistory.com/63)
 
