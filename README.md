@@ -72,6 +72,9 @@
 ### **Auth**
 * [Go 언어로 jwt인증 서버 만들기](https://covenant.tistory.com/203)
 
+### **Test**
+* [Golang assert와 mock Testify 라이브러리 알아보기](https://minwook-shin.github.io/go-common-assertions-and-mocks-testify/)
+
 ### **docker** 
 * [Go 프로젝트 docker 이미지 99.2% 줄이기](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
 
