@@ -63,6 +63,11 @@
 ### **GO**
 * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 
+### **FrameWork**
+
+   **gin**
+   * [gin에서 routing 하기](https://stackoverflow.com/questions/62906766/how-to-group-routes-in-gin)
+
 ### **데이터 타입**
 * [예제로 배우는 Go 프로그래밍](http://golang.site/Go/Basics)  
    **slice**
