@@ -76,6 +76,7 @@
 
 ### **context**
 * [[Go] context.WithValue() 안전하게 사용하기](https://velog.io/@kimmachinegun/Go-context.WithValue-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [Go언어에서 context 사용하기](https://jaehue.github.io/post/how-to-use-golang-context/)
 
 ### **Auth**
 * [Go 언어로 jwt인증 서버 만들기](https://covenant.tistory.com/203)
