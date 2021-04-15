@@ -74,6 +74,9 @@
    * [Slice의 함정](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
    * [Slice는 포인터인가 포인터가 아닌가](https://docs.google.com/document/d/1t0LDzDEbc6zYlehlBWR8n6hdHyq89X8pYjs0wui_V40/mobilebasic)
 
+### **context**
+* [[Go] context.WithValue() 안전하게 사용하기](https://velog.io/@kimmachinegun/Go-context.WithValue-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
 ### **Auth**
 * [Go 언어로 jwt인증 서버 만들기](https://covenant.tistory.com/203)
 
